@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591724090 source:h:\taski\2 semestr\1\massa 4\main.cpp
+	<iostream>
+	<ctime>
+	<list>
+	<stdlib.h>
+	<time.h>
+	<locale>
+
